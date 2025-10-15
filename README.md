@@ -22,7 +22,7 @@ This collection covers detailed explorations of the following algorithms, struct
 
 | Algorithm | Primary Focus | README Link |
 | :--- | :--- | :--- |
-| **Linear Regression** | Foundational Statistics, OLS, Ridge/Lasso Regularization | [Linear-Regression-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/Linear-Regression-README.md) |
+| **Linear Regression** | Foundational Statistics, OLS, Ridge/Lasso Regularization | [Linear-Regression-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/LinearRegression-README.md) |
 | **XGBoost** | Gradient Boosting, Objective Functions, Hyperparameter Optimization | [XGBoost-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/XGBoost-README.md) |
 | **K-Nearest Neighbors (K-NN)** | Distance Metrics, Bias-Variance, Advanced K-NN Variants | [KNN-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/KNN-README.md) |
 | **Principal Component Analysis (PCA)** | Dimensionality Reduction, Eigenvectors, Kernel & Incremental PCA | [PCA-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/PCA-README.md) |
