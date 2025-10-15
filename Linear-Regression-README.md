@@ -38,5 +38,6 @@ This article provides a comprehensive guide to linear regression, covering both 
 
 For any questions, suggestions, or collaboration inquiries, please connect with the author, Enes Güler, via the following platforms:
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email]
+* **LinkedIn:** www.linkedin.com/in/enes-güler-8ab8a7346
+* **Email:** enesguler.ml@gmail.com
+
