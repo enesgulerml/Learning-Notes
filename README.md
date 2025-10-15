@@ -44,5 +44,5 @@ The knowledge contained within these notes collectively demonstrates expertise i
 ### 📞 Connect with Me
 
 * **LinkedIn:** www.linkedin.com/in/enes-güler-8ab8a7346
-* **Medium:** [[Your Medium Profile Link]](https://medium.com/@ml.enesguler)
+* **Medium:** https://medium.com/@ml.enesguler
 * **Contact :** enesguler.ml@gmail.com
